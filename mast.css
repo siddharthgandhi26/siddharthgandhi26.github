@@ -1,0 +1,39 @@
+a{
+    color: blue;
+}
+a:hover{
+    color: red;
+}
+
+body{
+    background-color: beige;
+    color: black;
+    font-family: Arial, helvitica, sans-serif;
+    text-align: center;
+
+
+
+}
+footer{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+}
+h1{
+    margin-bottom: 0.5rem;
+    margin-top: 3rem;
+
+}
+h2{
+    color:blue;
+    margin-bottom: 2.5rem;
+    margin-top: 2.5rem;
+}
+h3{
+    margin-bottom: 0rem;
+    margin-top: 2rem;
+}
+h4{
+    margin-bottom: 1rem;
+    margin-top: 0.5rem;
+}
